@@ -1,7 +1,8 @@
 # Fullstack Project Template 🚀
 
 Welcome to my **Fullstack Project Template**! 😎 I'm a junior frontend developer exploring the universe of fullstack development. This stack combines the power of **React.js** on the frontend with the flexibility of **Node.js** on the backend. 
-🎯 Current mission: Find the bug before the bug finds me.
+
+## 🎯 Current mission: Find the bug before the bug finds me.
 🌐 When I’m not coding, I’m probably debugging my life decisions.
 
 ## Tech Stack 📦
