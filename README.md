@@ -10,8 +10,6 @@ Welcome to my **Fullstack Project Template**! 😎 I'm a junior frontend develop
 - **React Router**
 - **Axios / Fetch API**
 - **Formik + Yup**
-- **Material-UI / Tailwind CSS / Styled Components**
-- **React Query**
 - **TypeScript**
 
 ### Backend:
@@ -20,27 +18,9 @@ Welcome to my **Fullstack Project Template**! 😎 I'm a junior frontend develop
 - **MongoDB + Mongoose**
 - **JWT**
 - **Bcrypt**
-- **Multer**
-- **Socket.IO**
-- **Nodemailer**
-
-### Infrastructure:
-- **Webpack / Vite**
-- **Docker**
-- **CI/CD** (GitHub Actions, Jenkins, GitLab CI)
-- **AWS / Google Cloud / Azure**
-- **Netlify / Vercel**
-- **Postman**
-
-### Development Tools:
-- **ESLint + Prettier**
-- **Git + GitHub/GitLab**
-- **Jest / React Testing Library**
-- **Mocha / Chai / Supertest**
 
 ### Database Options:
 - **MongoDB** (Primary)
-- **PostgreSQL** (Alternative)
 - **Firebase** (For quick prototyping)
 
 ## Why This Stack? 🤔
