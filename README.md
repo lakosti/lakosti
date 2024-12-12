@@ -20,6 +20,10 @@ I'm probably debugging my life decisions. 🤔
 
 ### Frontend 🖌️  
 <p>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white" alt="React Router" />
@@ -27,6 +31,7 @@ I'm probably debugging my life decisions. 🤔
   <img src="https://img.shields.io/badge/-Formik-6C5CE7?logo=formik&logoColor=white" alt="Formik" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
+
 
 ### Backend 🛠️  
 <p>
