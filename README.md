@@ -18,12 +18,30 @@ I'm probably debugging my life decisions. 🤔
 
 ## Tech Stack 📦
 
-Frontend 🖌️
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white" alt="React Router" /> <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white" alt="Axios" /> <img src="https://img.shields.io/badge/-Formik-6C5CE7?logo=formik&logoColor=white" alt="Formik" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-Backend 🛠️
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/-Bcrypt-FF8800?logo=keybase&logoColor=white" alt="Bcrypt" />
-Database Options 📂
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="Firebase" />
+### Frontend 🖌️  
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/-Formik-6C5CE7?logo=formik&logoColor=white" alt="Formik" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+### Backend 🛠️  
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/-Bcrypt-FF8800?logo=keybase&logoColor=white" alt="Bcrypt" />
+</p>
+
+### Database Options 📂  
+<p>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="Firebase" />
+</p>
 
 ## Why This Stack? 🤔
 I built this stack to learn and grow as a fullstack developer. It's modern, versatile, and fun to work with. Each tool and library is chosen to balance simplicity and power, so I can deliver great features while keeping the code clean and maintainable. Plus, it’s a lot of fun to debug when things don’t work (who doesn’t love a good challenge?). 😅
