@@ -1,6 +1,6 @@
 # Fullstack 🚀  
 
-Hi there! I'm a **Junior Frontend Developer** exploring the vast universe of **Fullstack Development**.  
+Hi there! I'm a **Trainee Frontend Developer** exploring the vast universe of **Fullstack Development**.  
 
 This stack combines:  
 - The power of **React.js** ⚛️ for crafting dynamic user interfaces.  
